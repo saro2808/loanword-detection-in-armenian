@@ -47,3 +47,15 @@ One can see that `RandomForestClassifier` outperforms the other models with its 
 1. The native Armenian words contained verbs which added unfair bias because of verb endings. It is worth to do try the above approaches on the dataset without verbs as well.
 
 1. Syllables are "armanianized", meaning that they may not fully reflect the original language's patterns.
+
+## TODO
+
+1. Remove verbs.
+
+1. Try clusterization.
+
+1. Train on the updated dataset.
+
+1. Evaluate on unlabeled words as an experiment.
+
+1. Perform an ablation study.
