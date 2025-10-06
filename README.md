@@ -54,6 +54,8 @@ One can see that `RandomForestClassifier` outperforms the other models with its 
 
 1. Try clusterization.
 
+1. Try grouping similar sounding letters into equiuvalence classes, such as գ, կ, ք.
+
 1. Train on the updated dataset.
 
 1. Evaluate on unlabeled words as an experiment.
